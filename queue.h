@@ -15,7 +15,8 @@
  *          - returns size of queue
  *      T Front() const;
  *          - returns the front node of the queue
- *
+ *      T Rear() const;
+ *          - returns rear node of queue
  * MUTATORS
  *      void enqueue(T value)
  *          - pushes back the value to the back of the queue
@@ -61,6 +62,7 @@ public:
     bool isFull() const;
     int size() const;
     T Front() const;
+    T Rear() const;
 
     // MUTATORS
     void enqueue(T value);
@@ -69,6 +71,7 @@ public:
 
     void display(ostream& outs);
 };
+
 
 /*************************************************************
  * queue()
@@ -223,9 +226,16 @@ template <typename T>
 T queue<T>::Front() const
 {
     if (!isEmpty())
-    {
         return _front->data;
-    }
+    return _front->data = 0;
+}
+
+template <typename T>
+T queue<T>::Rear() const
+{
+    if (!isFull())
+        return _rear->data;
+    return _rear->data = 0;
 }
 
 /*************************************************************

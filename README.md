@@ -1,6 +1,6 @@
 # Airport_Simulation
 
-Airport Simulation using Queue
+Simple Airport Simulation program using queues.
 
 Small simulation program for a small airport with one runway.
 
@@ -12,6 +12,5 @@ Runway can occupy one plane at a time.
 - all planes arrive for landing at random times but with specified probability arriving during any given minute
 - all planes arrive at takeoff queue at random times, but a (possibly different) specified probabilty of departure (delay makes this a reasonable assumption) <br> 
 - landings will have priority over takeoffs
-
 
 

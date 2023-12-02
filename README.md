@@ -1,10 +1,11 @@
-# Airport_Simulation
+## Airport_Simulation
 
 Simple Airport Simulation program using queues.
 
 Small simulation program for a small airport with one runway.
 
 Runway can occupy one plane at a time. 
+
 
 ###### Assumptions:
 - all takeoffs occupy the same amount of time <br> 

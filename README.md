@@ -1,9 +1,20 @@
+<<<<<<< HEAD
 # Airport_Simulation
 
 A simple, but sophisticated simulation providing insights into plane arrivals and logistics. 
 
 * Small simulation program for a small airport with one runway.
 * Runway can occupy one plane at a time. 
+=======
+## Airport_Simulation
+
+Simple Airport Simulation program using queues.
+
+Small simulation program for a small airport with one runway.
+
+Runway can occupy one plane at a time. 
+
+>>>>>>> 88966dc66eabdac732bb0b79618e58ea8a391827
 
 ###### Assumptions:
 - all takeoffs occupy the same amount of time <br> 

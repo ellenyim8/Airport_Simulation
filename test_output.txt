@@ -1,0 +1,556 @@
+***************************************************
+Programmed by : Ellen Yim
+Student ID    : 10325759
+Class         : CS8 MW 6:30 - 8:35p
+Assignment #5 : Airport Sim
+***************************************************
+Amount of time needed for 1 plane to land:
+3
+Amount of time needed for 1 plane to takeoff:
+4
+Average amount of time b/w arrival of planes to landing queue:
+8
+Avg amount of time b/w arrival of planes to takeoff queue:
+10
+max amount of time that plane can stay in landing queue without running out of fuel and crashing:
+0
+Total length of time to be stimulated:
+60
+Top of loop t=0
+Plane arrives in landing queue.
+Landed plane that arrived at: 0.
+Top of loop t=4
+Top of loop t=5
+Top of loop t=6
+Top of loop t=7
+Plane arrives in takeoff queue.
+Departing plane that arrived at 7
+7: plane arrives on landing queue.
+10: plane arrives on landing queue.
+10: plane arrives on takeoff queue.
+Top of loop t=12
+Plane arrives in landing queue.
+Landed plane that arrived at: 7.
+Landing plane that arrives at: 10 has crashed.
+Landing plane that arrives at: 0 has crashed.
+Departing plane that arrived at 10
+16: plane arrives on landing queue.
+Top of loop t=20
+Landing plane that arrives at: 16 has crashed.
+Top of loop t=21
+Top of loop t=22
+Top of loop t=23
+Top of loop t=24
+Top of loop t=25
+Top of loop t=26
+Top of loop t=27
+Top of loop t=28
+Top of loop t=29
+Plane arrives in takeoff queue.
+Departing plane that arrived at 29
+29: plane arrives on takeoff queue.
+30: plane arrives on takeoff queue.
+31: plane arrives on landing queue.
+Top of loop t=34
+Landing plane that arrives at: 31 has crashed.
+Departing plane that arrived at 29
+Top of loop t=39
+Departing plane that arrived at 30
+Top of loop t=44
+Top of loop t=45
+Top of loop t=46
+Top of loop t=47
+Top of loop t=48
+Plane arrives in takeoff queue.
+Departing plane that arrived at 48
+Top of loop t=53
+Plane arrives in takeoff queue.
+Departing plane that arrived at 53
+Top of loop t=58
+Top of loop t=59
+End of simulation time...
+The number of planes that took off in the simulated time is: 7
+The number of planes that landed in the simulated time is: 2
+The number of planes that crashed b/c they ran out of fuel before they could land: 4
+The average time that a plane spent in the takeoff queue is: 2
+The average time that a plane spent in the landing queue is: 2
+
+Another report? (y/n)
+y
+Amount of time needed for 1 plane to land:
+9
+Amount of time needed for 1 plane to takeoff:
+11
+Average amount of time b/w arrival of planes to landing queue:
+20
+Avg amount of time b/w arrival of planes to takeoff queue:
+25
+max amount of time that plane can stay in landing queue without running out of fuel and crashing:
+1
+Total length of time to be stimulated:
+180
+Top of loop t=0
+Top of loop t=1
+Top of loop t=2
+Top of loop t=3
+Top of loop t=4
+Top of loop t=5
+Plane arrives in takeoff queue.
+Departing plane that arrived at 5
+Top of loop t=17
+Top of loop t=18
+Plane arrives in landing queue.
+Landed plane that arrived at: 18.
+Top of loop t=28
+Top of loop t=29
+Top of loop t=30
+Top of loop t=31
+Plane arrives in landing queue.
+Landed plane that arrived at: 31.
+33: plane arrives on takeoff queue.
+Departing plane that arrived at 31
+Top of loop t=52
+Top of loop t=53
+Top of loop t=54
+Top of loop t=55
+Top of loop t=56
+Top of loop t=57
+Top of loop t=58
+Top of loop t=59
+Top of loop t=60
+Top of loop t=61
+Top of loop t=62
+Top of loop t=63
+Top of loop t=64
+Top of loop t=65
+Top of loop t=66
+Top of loop t=67
+Top of loop t=68
+Top of loop t=69
+Top of loop t=70
+Top of loop t=71
+Top of loop t=72
+Top of loop t=73
+Top of loop t=74
+Top of loop t=75
+Top of loop t=76
+Top of loop t=77
+Top of loop t=78
+Top of loop t=79
+Top of loop t=80
+Top of loop t=81
+Top of loop t=82
+Top of loop t=83
+Top of loop t=84
+Top of loop t=85
+Top of loop t=86
+Top of loop t=87
+Top of loop t=88
+Top of loop t=89
+Top of loop t=90
+Top of loop t=91
+Top of loop t=92
+Top of loop t=93
+Top of loop t=94
+Top of loop t=95
+Top of loop t=96
+Top of loop t=97
+Top of loop t=98
+Top of loop t=99
+Top of loop t=100
+Top of loop t=101
+Top of loop t=102
+Plane arrives in landing queue.
+Landed plane that arrived at: 102.
+Top of loop t=112
+Plane arrives in landing queue.
+Landed plane that arrived at: 112.
+116: plane arrives on landing queue.
+Landing plane that arrives at: 112 has crashed.
+Top of loop t=122
+Top of loop t=123
+Top of loop t=124
+Top of loop t=125
+Top of loop t=126
+Top of loop t=127
+Top of loop t=128
+Top of loop t=129
+Top of loop t=130
+Top of loop t=131
+Top of loop t=132
+Top of loop t=133
+Top of loop t=134
+Top of loop t=135
+Top of loop t=136
+Top of loop t=137
+Top of loop t=138
+Top of loop t=139
+Top of loop t=140
+Top of loop t=141
+Top of loop t=142
+Top of loop t=143
+Top of loop t=144
+Top of loop t=145
+Top of loop t=146
+Top of loop t=147
+Plane arrives in landing queue.
+Landed plane that arrived at: 147.
+152: plane arrives on takeoff queue.
+Departing plane that arrived at 147
+158: plane arrives on landing queue.
+162: plane arrives on landing queue.
+Top of loop t=168
+Landing plane that arrives at: 158 has crashed.
+Landing plane that arrives at: 0 has crashed.
+Top of loop t=169
+Top of loop t=170
+Top of loop t=171
+Plane arrives in landing queue.
+Landed plane that arrived at: 171.
+End of simulation time...
+The number of planes that took off in the simulated time is: 3
+The number of planes that landed in the simulated time is: 6
+The number of planes that crashed b/c they ran out of fuel before they could land: 3
+The average time that a plane spent in the takeoff queue is: 6
+The average time that a plane spent in the landing queue is: 0
+
+Another report? (y/n)
+y
+Amount of time needed for 1 plane to land:
+15
+Amount of time needed for 1 plane to takeoff:
+16
+Average amount of time b/w arrival of planes to landing queue:
+22
+Avg amount of time b/w arrival of planes to takeoff queue:
+24
+max amount of time that plane can stay in landing queue without running out of fuel and crashing:
+4
+Total length of time to be stimulated:
+90
+Top of loop t=0
+Top of loop t=1
+Top of loop t=2
+Top of loop t=3
+Top of loop t=4
+Top of loop t=5
+Top of loop t=6
+Plane arrives in landing queue.
+Landed plane that arrived at: 6.
+8: plane arrives on landing queue.
+Landing plane that arrives at: 6 has crashed.
+Top of loop t=22
+Plane arrives in takeoff queue.
+Departing plane that arrived at 22
+Top of loop t=39
+Top of loop t=40
+Top of loop t=41
+Top of loop t=42
+Top of loop t=43
+Top of loop t=44
+Top of loop t=45
+Top of loop t=46
+Top of loop t=47
+Top of loop t=48
+Top of loop t=49
+Top of loop t=50
+Top of loop t=51
+Top of loop t=52
+Top of loop t=53
+Top of loop t=54
+Top of loop t=55
+Plane arrives in landing queue.
+Landed plane that arrived at: 55.
+Top of loop t=71
+Top of loop t=72
+Plane arrives in takeoff queue.
+Departing plane that arrived at 72
+80: plane arrives on landing queue.
+81: plane arrives on takeoff queue.
+82: plane arrives on landing queue.
+Top of loop t=89
+Landing plane that arrives at: 80 has crashed.
+Landing plane that arrives at: 0 has crashed.
+Departing plane that arrived at 81
+End of simulation time...
+The number of planes that took off in the simulated time is: 3
+The number of planes that landed in the simulated time is: 2
+The number of planes that crashed b/c they ran out of fuel before they could land: 3
+The average time that a plane spent in the takeoff queue is: 2
+The average time that a plane spent in the landing queue is: 0
+
+Another report? (y/n)
+y
+Amount of time needed for 1 plane to land:
+1
+Amount of time needed for 1 plane to takeoff:
+2
+Average amount of time b/w arrival of planes to landing queue:
+5
+Avg amount of time b/w arrival of planes to takeoff queue:
+7
+max amount of time that plane can stay in landing queue without running out of fuel and crashing:
+3
+Total length of time to be stimulated:
+200
+Top of loop t=0
+Top of loop t=1
+Top of loop t=2
+Plane arrives in landing queue.
+Landed plane that arrived at: 2.
+Top of loop t=4
+Top of loop t=5
+Plane arrives in takeoff queue.
+Departing plane that arrived at 5
+Top of loop t=8
+Top of loop t=9
+Top of loop t=10
+Plane arrives in landing queue.
+Landed plane that arrived at: 10.
+Top of loop t=12
+Top of loop t=13
+Top of loop t=14
+Top of loop t=15
+Top of loop t=16
+Top of loop t=17
+Top of loop t=18
+Plane arrives in landing queue.
+Landed plane that arrived at: 18.
+18: plane arrives on takeoff queue.
+Departing plane that arrived at 18
+Top of loop t=22
+Plane arrives in landing queue.
+Landed plane that arrived at: 22.
+22: plane arrives on takeoff queue.
+Departing plane that arrived at 22
+24: plane arrives on landing queue.
+24: plane arrives on takeoff queue.
+Top of loop t=26
+Landed plane that arrived at: 24.
+Departing plane that arrived at 24
+Top of loop t=30
+Top of loop t=31
+Top of loop t=32
+Plane arrives in landing queue.
+Landed plane that arrived at: 32.
+32: plane arrives on landing queue.
+32: plane arrives on takeoff queue.
+Landed plane that arrived at: 32.
+33: plane arrives on landing queue.
+Landed plane that arrived at: 33.
+Departing plane that arrived at 32
+36: plane arrives on landing queue.
+Top of loop t=38
+Landed plane that arrived at: 36.
+Top of loop t=40
+Top of loop t=41
+Plane arrives in landing queue.
+Landed plane that arrived at: 41.
+Top of loop t=43
+Top of loop t=44
+Plane arrives in landing queue.
+Landed plane that arrived at: 44.
+Top of loop t=46
+Top of loop t=47
+Top of loop t=48
+Top of loop t=49
+Top of loop t=50
+Top of loop t=51
+Top of loop t=52
+Plane arrives in takeoff queue.
+Departing plane that arrived at 52
+Top of loop t=55
+Plane arrives in landing queue.
+Landed plane that arrived at: 55.
+55: plane arrives on takeoff queue.
+Departing plane that arrived at 55
+56: plane arrives on landing queue.
+Top of loop t=59
+Plane arrives in landing queue.
+Plane arrives in takeoff queue.
+Landing plane that arrives at: 56 has crashed.
+Landing plane that arrives at: 0 has crashed.
+Departing plane that arrived at 59
+59: plane arrives on landing queue.
+60: plane arrives on landing queue.
+Top of loop t=62
+Plane arrives in takeoff queue.
+Landing plane that arrives at: 59 has crashed.
+Landing plane that arrives at: 0 has crashed.
+Departing plane that arrived at 62
+63: plane arrives on takeoff queue.
+Top of loop t=65
+Departing plane that arrived at 63
+66: plane arrives on landing queue.
+Top of loop t=68
+Plane arrives in landing queue.
+Landing plane that arrives at: 66 has crashed.
+Landing plane that arrives at: 0 has crashed.
+Top of loop t=69
+Top of loop t=70
+Top of loop t=71
+Top of loop t=72
+Top of loop t=73
+Plane arrives in takeoff queue.
+Departing plane that arrived at 73
+74: plane arrives on landing queue.
+Top of loop t=76
+Landed plane that arrived at: 74.
+Top of loop t=78
+Top of loop t=79
+Top of loop t=80
+Top of loop t=81
+Top of loop t=82
+Top of loop t=83
+Top of loop t=84
+Top of loop t=85
+Top of loop t=86
+Top of loop t=87
+Top of loop t=88
+Top of loop t=89
+Top of loop t=90
+Top of loop t=91
+Top of loop t=92
+Top of loop t=93
+Top of loop t=94
+Top of loop t=95
+Plane arrives in takeoff queue.
+Departing plane that arrived at 95
+95: plane arrives on takeoff queue.
+Top of loop t=98
+Plane arrives in takeoff queue.
+Departing plane that arrived at 95
+98: plane arrives on takeoff queue.
+99: plane arrives on takeoff queue.
+Top of loop t=101
+Plane arrives in landing queue.
+Landed plane that arrived at: 101.
+Departing plane that arrived at 98
+Top of loop t=105
+Departing plane that arrived at 98
+Top of loop t=108
+Plane arrives in landing queue.
+Landed plane that arrived at: 108.
+108: plane arrives on takeoff queue.
+Departing plane that arrived at 99
+Top of loop t=112
+Departing plane that arrived at 108
+Top of loop t=115
+Plane arrives in takeoff queue.
+Departing plane that arrived at 115
+116: plane arrives on takeoff queue.
+Top of loop t=118
+Departing plane that arrived at 116
+118: plane arrives on landing queue.
+119: plane arrives on takeoff queue.
+Top of loop t=121
+Plane arrives in landing queue.
+Landing plane that arrives at: 118 has crashed.
+Landing plane that arrives at: 0 has crashed.
+Departing plane that arrived at 119
+121: plane arrives on landing queue.
+122: plane arrives on landing queue.
+Top of loop t=124
+Landing plane that arrives at: 121 has crashed.
+Landing plane that arrives at: 0 has crashed.
+Top of loop t=125
+Top of loop t=126
+Top of loop t=127
+Top of loop t=128
+Top of loop t=129
+Top of loop t=130
+Top of loop t=131
+Top of loop t=132
+Top of loop t=133
+Top of loop t=134
+Plane arrives in landing queue.
+Landed plane that arrived at: 134.
+134: plane arrives on landing queue.
+Landed plane that arrived at: 134.
+Top of loop t=137
+Plane arrives in landing queue.
+Landed plane that arrived at: 137.
+Top of loop t=139
+Top of loop t=140
+Top of loop t=141
+Plane arrives in takeoff queue.
+Departing plane that arrived at 141
+142: plane arrives on takeoff queue.
+Top of loop t=144
+Departing plane that arrived at 142
+Top of loop t=147
+Top of loop t=148
+Plane arrives in takeoff queue.
+Departing plane that arrived at 148
+149: plane arrives on takeoff queue.
+Top of loop t=151
+Departing plane that arrived at 149
+Top of loop t=154
+Top of loop t=155
+Plane arrives in landing queue.
+Landed plane that arrived at: 155.
+155: plane arrives on landing queue.
+Landed plane that arrived at: 155.
+Top of loop t=158
+Plane arrives in landing queue.
+Plane arrives in takeoff queue.
+Landed plane that arrived at: 158.
+158: plane arrives on takeoff queue.
+Departing plane that arrived at 158
+Top of loop t=162
+Departing plane that arrived at 158
+163: plane arrives on takeoff queue.
+Top of loop t=165
+Plane arrives in landing queue.
+Landed plane that arrived at: 165.
+165: plane arrives on landing queue.
+Landed plane that arrived at: 165.
+Departing plane that arrived at 163
+167: plane arrives on takeoff queue.
+Top of loop t=170
+Departing plane that arrived at 167
+Top of loop t=173
+Top of loop t=174
+Top of loop t=175
+Plane arrives in landing queue.
+Landed plane that arrived at: 175.
+175: plane arrives on landing queue.
+Landed plane that arrived at: 175.
+Top of loop t=178
+Top of loop t=179
+Top of loop t=180
+Top of loop t=181
+Top of loop t=182
+Top of loop t=183
+Plane arrives in landing queue.
+Landed plane that arrived at: 183.
+Top of loop t=185
+Top of loop t=186
+Plane arrives in takeoff queue.
+Departing plane that arrived at 186
+Top of loop t=189
+Plane arrives in landing queue.
+Landed plane that arrived at: 189.
+Top of loop t=191
+Top of loop t=192
+Plane arrives in landing queue.
+Landed plane that arrived at: 192.
+192: plane arrives on takeoff queue.
+Departing plane that arrived at 192
+194: plane arrives on landing queue.
+Top of loop t=196
+Landed plane that arrived at: 194.
+Top of loop t=198
+Plane arrives in takeoff queue.
+Departing plane that arrived at 198
+End of simulation time...
+The number of planes that took off in the simulated time is: 31
+The number of planes that landed in the simulated time is: 29
+The number of planes that crashed b/c they ran out of fuel before they could land: 10
+The average time that a plane spent in the takeoff queue is: 1
+The average time that a plane spent in the landing queue is: 0
+
+Another report? (y/n)
+n
+Press any key to continue . . .
+Press <RETURN> to close this window...
